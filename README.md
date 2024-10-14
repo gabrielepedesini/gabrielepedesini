@@ -2,11 +2,10 @@
 
 💻 i am an (aspiring) **software engineer** living in italy  
 🎓 currently studying **computer engineering** at [politecnico di milano](https://www.polimi.it/)  
-📹 Making videos about **[topic of interest]**, tech, and productivity on **[YouTube/Other Platforms]**  
+📹 mainly interested in the world of **web development** and **mobile development**   
 🌱 #learninginpublic in my **[blog/website or digital garden]**  
-💬 Currently learning about **[topics you're currently learning]**
 
-## 🛠 Tech Stack
+## Tech Stack 🛠 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
