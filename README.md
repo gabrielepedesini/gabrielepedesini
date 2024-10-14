@@ -18,6 +18,6 @@
 
 ## contact me 💬  
 
-- ✉️ email: [gabrielepedesini@gmail.com](mailto:gabrielepedesini@gmail.com)
-- 💼 linkedin: [profile](https://www.linkedin.com/in/gabrielepedesini)
-- 📱 telegram: [@gabrielepedesini](https://t.me/gabrielepedesini)
+- ✉️ [gabrielepedesini@gmail.com](mailto:gabrielepedesini@gmail.com)
+- 💼 [linkedin](https://www.linkedin.com/in/gabrielepedesini)
+- 📱 [telegram](https://t.me/gabrielepedesini)
