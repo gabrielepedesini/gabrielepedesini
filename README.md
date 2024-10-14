@@ -20,4 +20,4 @@
 
 - ✉️ [gabrielepedesini@gmail.com](mailto:gabrielepedesini@gmail.com)
 - 💼 [linkedin](https://www.linkedin.com/in/gabrielepedesini)
-- 📱 [telegram](https://t.me/gabrielepedesini)
+- 📬 [telegram](https://t.me/gabrielepedesini)
