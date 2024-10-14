@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# hello, i'm gabriele 👋 
 
 💻 **Software Engineer** sharing about my journey and learnings in tech  
 🎓 Studied **[Your Major]** at **[Your University]**  
