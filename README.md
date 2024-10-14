@@ -1,7 +1,7 @@
 # hello, i'm gabriele 👋 
 
 💻 i am an (aspiring) **software engineer** living in italy
-🎓 currently studying **computer engineering** at [politecnico di milano](www.polimi.it)  
+🎓 currently studying **computer engineering** at [politecnico di milano](https://www.polimi.it/)  
 📹 Making videos about **[topic of interest]**, tech, and productivity on **[YouTube/Other Platforms]**  
 🌱 #learninginpublic in my **[blog/website or digital garden]**  
 💬 Currently learning about **[topics you're currently learning]**
