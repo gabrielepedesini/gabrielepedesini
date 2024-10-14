@@ -2,8 +2,9 @@
 
 💻 i am an (aspiring) **software engineer** living in italy  
 🎓 currently studying **computer engineering** at [politecnico di milano](https://www.polimi.it/)  
-mainly interested in the world of **web development** and **mobile development**   
-check out my [portfolio](https://gabrielepedesini.github.io/portfolio/) for more information about me and my projects
+🌍 mainly interested in the world of **web development** and **mobile development**  
+🔗 check out my [portfolio](https://gabrielepedesini.github.io/portfolio/) for more information about me and my projects
+
 
 ## Tech Stack 🛠 
 
