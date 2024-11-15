@@ -1,12 +1,12 @@
-# hello, i'm gabriele 👋 
+# Hello, I'm Gabriele 👋 
 
-💻 i am an (aspiring) **software engineer** living in italy  
-🎓 currently studying **computer engineering** at [politecnico di milano](https://www.polimi.it/)  
-🌐 mainly interested in the world of **web development** and **mobile development**  
-🚀 check out my [portfolio](https://gabrielepedesini.github.io/portfolio/) for more information about me and my projects
+💻 I am a **software engineer** living in italy  
+🎓 Currently studying **software engineering** at [PoliMI](https://www.polimi.it/)  
+🌐 Mainly interested in the world of **web development** and **mobile development**  
+🚀 Check out my [portfolio](https://gabrielepedesini.github.io/portfolio/) for more information about me and my projects
 
 
-## tech stack 🛠 
+## Tech Stack 🛠 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -16,8 +16,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-## contact me 💬  
+## Contact me 💬  
 
 ✉️ [gabrielepedesini@gmail.com](mailto:gabrielepedesini@gmail.com)  
-💼 [linkedin](https://www.linkedin.com/in/gabrielepedesini)  
-📬 [telegram](https://t.me/gabrielepedesini)  
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielepedesini)  
+📬 [Telegram](https://t.me/gabrielepedesini)  
