@@ -3,7 +3,7 @@
 💻 I am a **software engineer** living in italy  
 🎓 Currently studying **software engineering** at [PoliMI](https://www.polimi.it/)  
 🌐 Mainly interested in the world of **web development** and **mobile development**  
-🚀 Check out my [portfolio](https://gabrielepedesini.github.io/portfolio/) for more information about me and my projects
+🚀 Check out my [website](https://www.gabrielepedesini.com) for more information about me and my projects
 
 
 ## Tech Stack 🛠 
