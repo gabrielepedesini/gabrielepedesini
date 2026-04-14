@@ -1,8 +1,8 @@
 # Hello, I'm Gabriele 👋 
 
 💻 I am a **software engineer** living in italy  
-🎓 Currently studying **software engineering** at [POLIMI](https://www.polimi.it/)  
-🌐 Mainly interested in the world of **web development** and **mobile development**  
+🎓 Currently studying **computer engineering** at [POLIMI](https://www.polimi.it/)  
+🌐 Mainly interested in the world of **fullstack development** and **data**  
 🚀 Check out my [website](https://www.gabrielepedesini.com) for more information about me and my projects
 
 
